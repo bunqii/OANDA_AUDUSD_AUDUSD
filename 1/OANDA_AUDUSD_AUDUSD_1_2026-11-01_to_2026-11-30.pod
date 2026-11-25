@@ -6,7 +6,7 @@
   "chunk_end": "2026-11-30",
   "parquet_file": "OANDA_AUDUSD_AUDUSD_1_2026-11-01_to_2026-11-30.parquet",
   "data_file": "OANDA_AUDUSD_AUDUSD_1_2026-11-01_to_2026-11-30.parquet",
-  "row_count": 23685,
+  "row_count": 24961,
   "first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 1
   },
   "last_candle": {
-    "time": 1795519320,
-    "Time": "2026-11-24T11:22:00.000000000Z",
-    "open": 0.6628,
-    "high": 0.66298,
-    "low": 0.6628,
-    "close": 0.66296,
-    "volume": 74
+    "time": 1795597320,
+    "Time": "2026-11-25T09:02:00.000000000Z",
+    "open": 0.65738,
+    "high": 0.65738,
+    "low": 0.65727,
+    "close": 0.6573,
+    "volume": 103
   },
   "csv_file": "OANDA_AUDUSD_AUDUSD_1_2026-11-01_to_2026-11-30.parquet",
-  "csv_row_count": 23685,
+  "csv_row_count": 24961,
   "csv_first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 1
   },
   "csv_last_candle": {
-    "time": 1795519320,
-    "Time": "2026-11-24T11:22:00.000000000Z",
-    "open": 0.6628,
-    "high": 0.66298,
-    "low": 0.6628,
-    "close": 0.66296,
-    "volume": 74
+    "time": 1795597320,
+    "Time": "2026-11-25T09:02:00.000000000Z",
+    "open": 0.65738,
+    "high": 0.65738,
+    "low": 0.65727,
+    "close": 0.6573,
+    "volume": 103
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-24T11:23:52.000000000Z",
-  "generated_at": "2026-11-24T11:23:52.000000000Z",
+  "verified_at": "2026-11-25T09:03:47.000000000Z",
+  "generated_at": "2026-11-25T09:03:47.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-23T07:29:00Z",
-        "to": "2026-11-24T11:23:00Z",
+        "from": "2026-11-24T11:17:00Z",
+        "to": "2026-11-25T09:03:00Z",
         "code": 200,
         "msg": "OK"
       }
